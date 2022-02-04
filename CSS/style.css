@@ -326,6 +326,7 @@ nav.active {
     background: -webkit-linear-gradient(to right, #1b336f 0%, #0f1d57 100%);
     background: -moz-linear-gradient(to right, #1b336f 0%, #0f1d57 100%);
     background: linear-gradient(to right, #1b336f 0%, #0f1d57 100%);
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 30px;
 }
